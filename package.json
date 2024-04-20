@@ -1,0 +1,16 @@
+{
+  "name": "steamdb-scrapper",
+  "version": "0.0.1",
+  "description": "A simple SteamDB scrapper to get games and their images in a json file.",
+  "main": "index.js",
+  "repository": "https://github.com/joaocarvalhoetr/steamdb-scrapper.git",
+  "author": "JC <joaocarvalhoetr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0",
+    "puppeteer": "^22.6.5"
+  }
+}
